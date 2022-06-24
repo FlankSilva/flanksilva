@@ -2,7 +2,7 @@
 
 Desenvolvedor Web Pleno.
 
-Entusiasta das melhores tecnologias de desenvolvimento web, mobile e API.
+Entusiasta das melhores tecnologias de desenvolvimento web, mobile e APIs.
 
 Atualmente focado em aplicações(Node.js, ReactJS e React Native).
 
