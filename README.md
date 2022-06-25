@@ -6,14 +6,6 @@ Entusiasta das melhores tecnologias de desenvolvimento web, mobile e APIs.
 
 Atualmente focado em aplicações(Node.js, ReactJS e React Native).
 
-Iniciei no mundo da programação em 2015, quando tive o primeiro contato com Excel VBA. Desde então fiquei apaixonado pelo poder que os algoritmos proporciona as pessoas.
-
-Acredito que o sucesso está relacionado em trazer soluções para as pessoas.
-
-"Na vida tem os fracassados que nunca tentam, os perdedores que nunca terminam e os vencedores que nunca desistem!"
-
-Bora codar 🚀
-
 <div align="start">
   <a href="https://github.com/FlankSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlankSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -36,6 +28,8 @@ Bora codar 🚀
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Ubunto" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Ubunto" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Ubunto" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
   
   ##
