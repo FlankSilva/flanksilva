@@ -1,4 +1,4 @@
-## Desenvolvedor de sistemas Web - Pleno
+## Desenvolvedor de sistemas Web
 
 Desenvolvedor Web Pleno.
 
